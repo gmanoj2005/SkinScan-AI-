@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15123276780",
+    "project_id": "skinscan-ai",
+    "storage_bucket": "skinscan-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15123276780:android:441306a5f7798db26856c9",
+        "android_client_info": {
+          "package_name": "com.example.skinscan_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuUdKGSps2mnV6izHvYhSNUXetieIhiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
